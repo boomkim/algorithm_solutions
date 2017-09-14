@@ -1,2 +1,4 @@
 # algorithm_solutions
-solutions to programmers.com algorithm problems
+solutions to algorithm problems of programmers.co.kr
+
+you can see problems at <https://programmers.co.kr>
